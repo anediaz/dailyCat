@@ -1,4 +1,4 @@
-# dailyCat
+# Daily Cat
 
 A React Native application that shows a cat picture daily.
 Additional features coming later.
